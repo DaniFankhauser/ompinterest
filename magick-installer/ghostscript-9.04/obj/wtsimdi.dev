@@ -1,3 +1,0 @@
--dev2 wtsimdi -include ./obj/page -obj ./obj/gdevwts.o
--include ./obj/sicclib
--include ./obj/simdi

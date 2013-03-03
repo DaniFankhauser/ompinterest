@@ -1,3 +1,0 @@
--dev2 imdi -include ./obj/page -obj ./obj/gdevimdi.o
--include ./obj/sicclib
--include ./obj/simdi

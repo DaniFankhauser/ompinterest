@@ -1,3 +1,0 @@
--obj ./obj/gsicc.o
-./obj/gsicc_manage.o ./obj/gsicc_cache.o ./obj/gsicc_lcms.o ./obj/gsicc_profilecache.o ./obj/gsicc_create.o
--include ./obj/lcms.dev

@@ -1,1 +1,0 @@
--dev2 psrgb -include ./obj/page -obj ./obj/gdevpsim.o ./obj/gdevpsu.o

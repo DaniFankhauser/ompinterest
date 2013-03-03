@@ -1,1 +1,0 @@
--dev2 psgray -include ./obj/page -obj ./obj/gdevpsim.o ./obj/gdevpsu.o
