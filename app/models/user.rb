@@ -10,5 +10,6 @@ class User < ActiveRecord::Base
   attr_accessible :email, :password, :password_confirmation, :remember_me, :name
   # attr_accessible :title, :body
 
-  has_many :pins
+  #delete all pins associated with user :)
+  has_many :pins, :dependent => :destroy
 end
